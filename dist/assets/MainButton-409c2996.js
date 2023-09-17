@@ -1,0 +1,1 @@
+import{j as a}from"./index-28db1ab9.js";const c="_btn_ayij0_1",i="_polygon_ayij0_22";const _=({width:n="100px",color:s="#9f0013",children:l,isLoading:u,handleGetHero:o,handleMoreHeroes:t})=>a.jsx("button",{disabled:u,style:{width:n,backgroundColor:s},className:`${c} ${i}`,onClick:o?()=>o():t?()=>t():null,children:l});export{_ as M};
